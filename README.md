@@ -19,7 +19,7 @@
 
 ## 📊 Структура данных
 
-### Связи между таблицами
+### Связи между таблицами(ER-диаграмма)
 <img width="1280" height="823" alt="image" src="https://github.com/user-attachments/assets/4e17d06c-f709-40ab-94fd-a1731e3e6222" />
 
 ---
